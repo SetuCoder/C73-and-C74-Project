@@ -1,3 +1,1 @@
-### Minor changes like Using KeyboardAvoidingView and ToastAndroid
-
-and thats it :)
+### C73 projetc with a search bar, read and find functionality
