@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "StoryHub-3",
-    "slug": "storyhub3",
+    "name": "StoryHub-3and4",
+    "slug": "storyhub3and4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,7 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.setucoder.storyhub3"
+      "package": "com.setucoder.storyhub3and4"
     }
   }
 }
